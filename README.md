@@ -1,6 +1,6 @@
 # TeamPro
 ## Projeto Prático
-#### Projeto criado para atividade prática da faculdade descoplica
+#### Projeto criado para atividade prática da faculdade Descomplica
 
 Neste Projeto testei meus conhecimentos adquidiros nas aulas da faculdade.
 Utilizei classes, manipulação do DOM, consumo de API, Swich, validação de entrada, eventos,
